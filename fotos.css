@@ -1,0 +1,188 @@
+#divao{
+    float: left;
+    width: 100%;
+    height: 1011px;
+    background-color: rgb(143.143,143);
+    
+}
+#divao h1{
+    color: rgb(99, 99, 99);
+    margin: 10px;
+}
+#divinho{
+    width: 90%;
+    height: 700px;
+    margin: 80px 80px 0px 80px;
+}
+.dd:hover{
+    -webkit-transform: scale(1.4);
+}
+.dd{
+    float: left;
+    width: 30%;
+    height: 230px;
+    margin: 10px;   
+    box-shadow: black 2px 2px 5px;
+    border: solid 1px black;
+    background: url(f2.jpg);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.dd2:hover{
+    -webkit-transform: scale(1.4);
+}
+.dd2{
+    float: left;
+    width: 30%;
+    height: 230px;
+    margin: 10px;   
+    box-shadow: black 2px 2px 5px;
+    border: solid 1px black;
+    background: url(f3.jpg);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.dd3:hover{
+    -webkit-transform: scale(1.4);
+}
+.dd3{
+    float: left;
+    width: 30%;
+    height: 230px;
+    margin: 10px;   
+    box-shadow: black 2px 2px 5px;
+    border: solid 1px black;
+    background: url(f4.jpg);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.dd4:hover{
+    -webkit-transform: scale(1.4);
+}
+.dd4{
+    float: left;
+    width: 30%;
+    height: 230px;
+    margin: 10px;   
+    box-shadow: black 2px 2px 5px;
+    border: solid 1px black;
+    background: url(f5.jpg);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.dd5:hover{
+    -webkit-transform: scale(1.4);
+}
+.dd5{
+    float: left;
+    width: 30%;
+    height: 230px;
+    margin: 10px;   
+    box-shadow: black 2px 2px 5px;
+    border: solid 1px black;
+    background: url(f6.jpg);
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+.dd6:hover{
+    -webkit-transform: scale(1.4);
+}
+.dd6{
+    float: left;
+    width: 30%;
+    height: 230px;
+    margin: 10px;   
+    box-shadow: black 2px 2px 5px;
+    border: solid 1px black;
+    background: url(f7.jpg);
+    background-size: 102% 102%;
+    border-radius: 10px;
+}
+@media (max-width: 950px){
+    .dd:hover{
+        -webkit-transform: scale(1.2);
+    }
+    .dd{
+        float: left;
+        width: 80%;
+        height: 330px;
+        margin: 10px 20px;
+        box-shadow: black 2px 2px 5px;
+        border: solid 1px black;
+        background: url(f2.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px;
+    }
+    .dd2:hover{
+        -webkit-transform: scale(1.3);
+    }
+    .dd2{
+        float: left;
+        width: 80%;
+        height: 330px;
+        margin: 10px 20px; 
+        box-shadow: black 2px 2px 5px;
+        border: solid 1px black;
+        background: url(f3.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px;
+        
+    }
+    .dd3:hover{
+        -webkit-transform: scale(1.4);
+        
+    }
+    .dd3{
+        float: left;
+        width: 80%;
+        height: 330px;
+        margin: 10px 20px;
+        box-shadow: black 2px 2px 5px;
+        border: solid 1px black;
+        background: url(f4.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px;
+    }
+    .dd4:hover{
+        -webkit-transform: scale(1.4);
+    }
+    .dd4{
+        float: left;
+        width: 80%;
+        height: 330px;
+        margin: 10px 20px;
+        box-shadow: black 2px 2px 5px;
+        border: solid 1px black;
+        background: url(f5.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px;
+    }
+    .dd5:hover{
+        -webkit-transform: scale(1.4);
+    }
+    .dd5{
+        float: left;
+        width: 80%;
+        height: 330px;
+        margin: 10px 20px;
+        box-shadow: black 2px 2px 5px;
+        border: solid 1px black;
+        background: url(f6.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px;
+    }
+    .dd6:hover{
+        -webkit-transform: scale(1.4);
+    }
+    .dd6{
+        float: left;
+        width: 80%;
+        height: 330px;
+        margin: 10px 20px;
+        box-shadow: black 2px 2px 5px;
+        border: solid 1px black;
+        background: url(f7.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px;
+    }
+}
